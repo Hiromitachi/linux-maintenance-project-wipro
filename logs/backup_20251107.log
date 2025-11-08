@@ -1,0 +1,21 @@
+[2025-11-07 19:00:03] ERROR: SRC_DIR does not exist: /home/sumaiya/Documents
+[2025-11-07 19:00:53] === Backup started ===
+[2025-11-07 19:00:53] Source:      /home/sumaiya/Documents
+[2025-11-07 19:00:53] Destination: /home/sumaiya/backups
+[2025-11-07 19:00:53] Archive:     /home/sumaiya/backups/backup_20251107_190053.tar.gz
+[2025-11-07 19:00:53] Using exclude patterns
+[2025-11-07 19:00:53] [DRY-RUN] Would run: tar
+--exclude-from=/home/sumaiya/linux-maintenance-project/exclude.txt
+-czf
+/home/sumaiya/backups/backup_20251107_190053.tar.gz
+-C
+/home/sumaiya/Documents
+.
+[2025-11-07 19:00:53] === Backup finished ===
+[2025-11-07 19:01:43] === Backup started ===
+[2025-11-07 19:01:43] Source:      /home/sumaiya/Documents
+[2025-11-07 19:01:43] Destination: /home/sumaiya/backups
+[2025-11-07 19:01:44] Archive:     /home/sumaiya/backups/backup_20251107_190143.tar.gz
+[2025-11-07 19:01:44] Using exclude patterns
+[2025-11-07 19:01:44] Archive created: /home/sumaiya/backups/backup_20251107_190143.tar.gz
+[2025-11-07 19:01:44] === Backup finished ===

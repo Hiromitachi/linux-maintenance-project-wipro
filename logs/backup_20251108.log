@@ -1,0 +1,15 @@
+ERROR: simulated failure
+[2025-11-08 07:30:02] === Backup started ===
+[2025-11-08 07:30:02] Source:      /home/sumaiya/Documents
+[2025-11-08 07:30:02] Destination: /home/sumaiya/backups
+[2025-11-08 07:30:02] Archive:     /home/sumaiya/backups/backup_20251108_073002.tar.gz
+[2025-11-08 07:30:02] Using exclude patterns
+[2025-11-08 07:30:02] Archive created: /home/sumaiya/backups/backup_20251108_073002.tar.gz
+[2025-11-08 07:30:02] === Backup finished ===
+[2025-11-08 07:32:11] === Backup started ===
+[2025-11-08 07:32:11] Source:      /home/sumaiya/Documents
+[2025-11-08 07:32:11] Destination: /home/sumaiya/backups
+[2025-11-08 07:32:11] Archive:     /home/sumaiya/backups/backup_20251108_073211.tar.gz
+[2025-11-08 07:32:11] Using exclude patterns
+[2025-11-08 07:32:11] Archive created: /home/sumaiya/backups/backup_20251108_073211.tar.gz
+[2025-11-08 07:32:11] === Backup finished ===
